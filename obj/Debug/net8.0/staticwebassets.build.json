@@ -1,11 +1,12 @@
 {
   "Version": 1,
-  "Hash": "tPFS4YzhPv9WQdXDUVM00h1KmcRvcfxCHRjRjd3h2iw=",
+  "Hash": "4b4DRlfIp0aWQFzwB21wE862McK5zc5Rz5A4vwpW7VU=",
   "Source": "-ASP.NET-Fundamentos",
   "BasePath": "_content/-ASP.NET-Fundamentos",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [],
   "DiscoveryPatterns": [],
-  "Assets": []
+  "Assets": [],
+  "Endpoints": []
 }
